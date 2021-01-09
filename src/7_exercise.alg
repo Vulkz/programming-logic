@@ -1,7 +1,7 @@
 algoritmo "7_exercise"
 
 var
-num, dob, ter:real
+num, dob, ter: real
 
 inicio
 escreva("Digite um numero: ")
