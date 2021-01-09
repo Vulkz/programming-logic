@@ -9,6 +9,6 @@ leia(num)
 dob <- num * 2
 ter <- num / 3
 escreval("O dobro de", num, " e", dob)
-escreva("A ter�a parte de", num, " e ", ter :2:2)
+escreva("A terca parte de", num, " e ", ter :2:2)
 
 fimalgoritmo
